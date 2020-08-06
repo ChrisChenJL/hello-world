@@ -1,2 +1,5 @@
 # hello-world
-Study GitHub
+
+Hi Humans!
+
+Today,I will study GitHub.
